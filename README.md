@@ -5,3 +5,5 @@ funded by the National Science Foundation (NSF). Served as an Assistant Engineer
 the Bangladesh Power Development Board, the largest entity in the country's power sector. Proficient
 with applications such as Ansys and SolidWorks. Possess robust oral and written communication
 skills. Concentrated on objectives and proficient in time management.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudul14)](https://github.com/anuraghazra/github-readme-stats)
